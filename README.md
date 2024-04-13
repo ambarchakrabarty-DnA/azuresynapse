@@ -1,4 +1,5 @@
-# azuresynapse
-This is a repository created to develop and share Data Engineering with Azure Synapse Analytics
+# Data Engineering with Azure Synapse Analytics
+
+Azure Synapse Analytics is a unified platform for data and analytics used extensively by Data Engineers, Data Scientists and Data Analysts for modern data driven projects.  
 
 
